@@ -50,7 +50,7 @@ function Launches() {
 function App() {
   return (
     <div>
-      <h1>Exemple de 5 lancements 🚀</h2>
+      <h2>Exemple de 5 lancements 🚀</h2>
       <Launches />
     </div>
   );
